@@ -12,8 +12,7 @@
 ![](https://raw.githubusercontent.com/monir06/Stat-Visualization/main/output/max_rating.svg)
 ![](https://raw.githubusercontent.commonir06/Stat-Visualization/main/output/rating.svg)
 
-<p align="left">
-  ![](https://raw.githubusercontent.commonir06/Stat-Visualization/main/output/rating.svg)
+
   <a href="https://leetcode.com/monir769/">
     <img src="https://cp-logo.vercel.app/leetcode/sudiptob2" alt="Leet code rating" />
   </a>
@@ -27,7 +26,7 @@
     <img src="https://komarev.com/ghpvc/?username=monir06" alt="visitors" />
   </a>
 
-</p>
+
 
 <p align="left"> <a href="https://github.com/monir06"><img src="https://github-profile-trophy.vercel.app/?username=monir06" alt="monir06" /></a> </p>
 
