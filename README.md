@@ -2,13 +2,13 @@
 <h3 align="center">An enthusiastic competitive programming learner</h3>
 
 <b>&#128200; Competitive Programming</b>
-<p float="left">
-![LeetCode Stats](https://leetcard.jacoblin.cool/monir769?theme=light&font=Swanky%20and%20Moo%20Moo)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/monir769)
 ![](https://raw.githubusercontent.com/monir06/Stat-Visualization/main/output/light_card.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/monir06/Stat-Visualization/main/output/light_card.svg)
 ![](https://raw.githubusercontent.com/monir06/Stat-Visualization/main/output/max_rating.svg)
 ![](https://raw.githubusercontent.commonir06/Stat-Visualization/main/output/rating.svg)
-</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monir06&label=Profile%20views&color=0e75b6&style=flat" alt="monir06" /> </p>
 
