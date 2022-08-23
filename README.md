@@ -13,7 +13,8 @@
 ![](https://raw.githubusercontent.commonir06/Stat-Visualization/main/output/rating.svg)
 
 <p align="left">
-  <a href="https://leetcode.com/sudiptob2/">
+  ![](https://raw.githubusercontent.commonir06/Stat-Visualization/main/output/rating.svg)
+  <a href="https://leetcode.com/monir769/">
     <img src="https://cp-logo.vercel.app/leetcode/sudiptob2" alt="Leet code rating" />
   </a>
   <a href="https://stackoverflow.com/users/14749654/monir-john-rakib">
