@@ -7,7 +7,6 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/monir769)
 
 ![](https://raw.githubusercontent.com/monir06/Stat-Visualization/main/output/light_card.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/monir06/Stat-Visualization/main/output/light_card.svg)
 
 ![](https://raw.githubusercontent.com/monir06/Stat-Visualization/main/output/max_rating.svg)
 
