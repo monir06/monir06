@@ -33,7 +33,7 @@
 <a href="https://www.hackerrank.com/monir769" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="monir769" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/idfca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="idfca" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/monir769" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="monir769" height="30" width="40" /></a>
-<a href="/https://monir.zzaman.xyz/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://monir.zzaman.xyz/feed/" height="30" width="40" /></a>
+<a href="https://monir.zzaman.xyz/author/monir769/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://monir.zzaman.xyz/author/monir769/feed/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
