@@ -10,9 +10,8 @@
 ![](https://raw.githubusercontent.com/monir06/Stat-Visualization/main/output/light_card.svg)
 
 ![](https://raw.githubusercontent.com/monir06/Stat-Visualization/main/output/max_rating.svg)
+
 ![](https://raw.githubusercontent.commonir06/Stat-Visualization/main/output/rating.svg)
-
-
   <a href="https://leetcode.com/monir769/">
     <img src="https://cp-logo.vercel.app/leetcode/sudiptob2" alt="Leet code rating" />
   </a>
