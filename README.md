@@ -17,7 +17,7 @@
     <img src="https://cp-logo.vercel.app/leetcode/sudiptob2" alt="Leet code rating" />
   </a>
   <a href="https://stackoverflow.com/users/14749654/monir-john-rakib">
-    <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/14749654?color=orange&label=reputation&logo=stackoverflow">
+    <img alt="Stack Overflow reputation" src="https://stackoverflow-badge.vercel.app/?userID=14749654&color=orange&label=reputation&logo=stackoverflow">
   </a>
   <a href="https://github.com/monir06?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/monir06?color=green&logo=github">
@@ -28,7 +28,7 @@
 
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=monir06" alt="monir06" /></a> </p>
+<p align="left"> <a href="https://github.com/monir06"><img src="https://github-profile-trophy.vercel.app/?username=monir06" alt="monir06" /></a> </p>
 
 - 🔭 I’m currently working on [Image Encryption using AES (python)](https://github.com/monir06/Image-Encryption-using-AES)
 
