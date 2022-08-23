@@ -28,8 +28,6 @@
 
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=monir06&label=Profile%20views&color=0e75b6&style=flat" alt="monir06" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=monir06" alt="monir06" /></a> </p>
 
 - 🔭 I’m currently working on [Image Encryption using AES (python)](https://github.com/monir06/Image-Encryption-using-AES)
