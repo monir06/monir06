@@ -12,6 +12,21 @@
 ![](https://raw.githubusercontent.com/monir06/Stat-Visualization/main/output/max_rating.svg)
 ![](https://raw.githubusercontent.commonir06/Stat-Visualization/main/output/rating.svg)
 
+<p align="left">
+  <a href="https://leetcode.com/sudiptob2/">
+    <img src="https://cp-logo.vercel.app/leetcode/sudiptob2" alt="Leet code rating" />
+  </a>
+  <a href="https://stackoverflow.com/users/14749654/monir-john-rakib">
+    <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/14749654?color=orange&label=reputation&logo=stackoverflow">
+  </a>
+  <a href="https://github.com/monir06?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/monir06?color=green&logo=github">
+  </a>
+  <a href="https://github.com/monir06/">
+    <img src="https://komarev.com/ghpvc/?username=monir06" alt="visitors" />
+  </a>
+
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monir06&label=Profile%20views&color=0e75b6&style=flat" alt="monir06" /> </p>
 
